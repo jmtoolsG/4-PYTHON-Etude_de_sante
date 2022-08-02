@@ -12,4 +12,8 @@ En tant que Data-Analyst au sein d'une ONG, la direction souhaite avoir un panor
 - Les pays ayant le plus de disponibilité alimentaire par habitant
 - Les pays ayant le moins de disponibilité alimentaire par habitant
 
-
+Outils utilisés :
+- Excel (Power Query)
+- Python
+- Jupyter Notebook
+- Power Point
