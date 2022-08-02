@@ -1,6 +1,7 @@
 # Etude de sante Python
 
-En tant que Data-Analyst au sein d'une ONG, la direction souhaite avoir un panorama de l’état de la malnutrition dans le monde et répondre aux interrogations suivantes : 
+En tant que Data-Analyst au sein de l'équipe de chercheurs d'une ONG, la direction souhaite avoir un panorama de l’état de la malnutrition dans le monde et répondre aux interrogations suivantes : 
+
 - La part de la disponibilité intérieur allouée à l'alimentation animale
 - La part de la disponibilité intérieur perdue
 - La part de la disponibilité intérieur allouée à d'autres utilisations
