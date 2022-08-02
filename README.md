@@ -14,7 +14,6 @@ En tant que Data-Analyst au sein de l'équipe de chercheurs d'une ONG, la direct
 - Les pays ayant le moins de disponibilité alimentaire par habitant
 
 Outils utilisés :
-- Excel (Power Query)
 - Python
 - Jupyter Notebook
 - Power Point
