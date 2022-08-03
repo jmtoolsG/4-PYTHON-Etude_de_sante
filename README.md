@@ -1,4 +1,4 @@
-# Etude de sante Python
+# Etude de santé
 
 En tant que Data-Analyst au sein de l'équipe de chercheurs d'une ONG, la direction souhaite avoir un panorama de l’état de la malnutrition dans le monde et répondre aux interrogations suivantes : 
 
