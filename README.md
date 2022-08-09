@@ -28,5 +28,3 @@ En tant que Data-Analyst au sein de l'équipe de chercheurs d'une ONG, la direct
 - Les pays qui ont le plus bénéficié d’aide depuis 2013
 - Les pays ayant le plus de disponibilité alimentaire par habitant
 - Les pays ayant le moins de disponibilité alimentaire par habitant
-
-
